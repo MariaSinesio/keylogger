@@ -14,7 +14,7 @@
 
 *Acesso físico ao endpoint (hardware keylogging).*
 
-**Claro, existem outras formas de capturar isso, afinal, os cybercriminosos são muito criativos quando se trata da arte de fazer o mal.**
+**Claro, existem outras formas de capturar isso, afinal, os cybercriminosos são muito criativos quando se trata da arte de praticar o crime.**
 
 ## Script 
 
